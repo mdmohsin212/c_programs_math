@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
     printf("Enter value of c : ");
     scanf("%d", &c);
 
-    if ((a>b) &&(a>c))
+    if ((a>b) && (a>c))
     {
         printf("Largest number is %d\n", a);
     }
